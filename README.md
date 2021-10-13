@@ -1,4 +1,13 @@
-### Hi there 👋
+# Magno Santos  :man_technologist:
+
+### Hi there 👋 Welcome to my profile
+
+I'm a Software Developer! I currently work as an architect at [neon](https://neon.com.br/). I like to work with software developer and DevOps.
+
+ - 📌 Skills: C, C#, Java, JavaScript, Powershell, ...
+ - 💙 In love with C#
+ - 😄 In my free time I usually play games :video_game: and watch series :tv:
+ ----
 
 <!--
 **MagnoSantos/magnosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
